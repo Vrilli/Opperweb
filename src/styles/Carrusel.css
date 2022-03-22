@@ -1,0 +1,63 @@
+
+
+
+ .contenedor{
+    position: absolute;
+    width: 380px;
+    height: 320px;
+    padding: 50px 0px 0px;
+}
+
+
+#imagen{
+    width: 20rem;
+    height: 20rem;
+    position: relative;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+    padding: 5%;
+    background: #000;
+    background-position: center;
+    background-size: cover;
+}
+
+#imagen h1{
+    content: "";
+    top: 150px;
+    margin: 0;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    color: white;
+    }
+
+#imagen p{
+content: "";
+top: 150px;
+margin: 0;
+font-size: 1rem;
+font-weight: bold;
+text-align: center;
+position: relative;
+color: white;
+}
+
+.spa5{
+    color: #87339c;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
